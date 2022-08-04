@@ -1,6 +1,6 @@
 #Website Deployed on Netlify
 
-[View Here](https://findhostels.netlify.app/listing)
+[View Here](https://findhostels.netlify.app)
 
 # Getting Started with Create React App
 
